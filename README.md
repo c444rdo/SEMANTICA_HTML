@@ -1,16 +1,16 @@
 # SEMANTICA_HTML
-# Martínez Estrada Ricardo / No. de control: 1193 / 11-11-2024
+# Martínez Estrada Ricardo / No. de control: 1193 / 13-11-2024
 
 Ejercicio 1
 
-![image](https://github.com/user-attachments/assets/44ef207b-2140-482c-85a3-674b54f704a4)
-![image](https://github.com/user-attachments/assets/829b6b80-ebea-443c-b4cc-be7939685555)
-![image](https://github.com/user-attachments/assets/43745922-a780-4a04-8bdd-82ea2597fa31)
+![image](https://github.com/user-attachments/assets/4237ef20-f135-4ed8-91e1-9dd2f5e162d7)
+![image](https://github.com/user-attachments/assets/f1661dac-0190-4545-b055-cd1230aba2f7)
+![image](https://github.com/user-attachments/assets/bd20d2c7-28a9-4cbc-b6b5-e0d1617ddbe9)
 
 -------------------------
 
 Ejercicio 2
 
-![image](https://github.com/user-attachments/assets/3a5ede7a-99da-4a64-9c01-4f56d4e2d65e)
-![image](https://github.com/user-attachments/assets/08bc273a-e4a5-4bd8-a68a-31c868fd3e12)
-![image](https://github.com/user-attachments/assets/639a8c33-088a-45ad-8db0-a1be543aaaa4)
+![image](https://github.com/user-attachments/assets/3ced6333-41e2-48eb-b50e-d436692347fa)
+![image](https://github.com/user-attachments/assets/e54e6399-8c9a-4565-ad7d-b375a638efc5)
+![image](https://github.com/user-attachments/assets/7df14f24-7050-45a6-8506-3423d8d90e52)
